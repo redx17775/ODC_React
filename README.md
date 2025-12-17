@@ -12,9 +12,7 @@ Simple eSignature page where you:
 
 ### Screenshots
 
-> Save your screenshots into the project (for example in `public/`) and adjust the paths below to match the actual filenames.
-
-![eSignature App – empty form](public/esignature-empty.png)
-![eSignature App – filled form](public/esignature-filled.png)
+![eSignature App – empty form](/public/eSignature1.png)
+![eSignature App – filled form](/public/eSignature2.png)
 
 
